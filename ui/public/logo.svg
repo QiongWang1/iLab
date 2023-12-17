@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="120px" viewBox="0 0 241 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo</title>
+    <defs>
+        <linearGradient x1="111.634605%" y1="50%" x2="-2.89134927%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#206EFE" offset="0%"></stop>
+            <stop stop-color="#596BFF" offset="18.6380742%"></stop>
+            <stop stop-color="#9786FF" offset="35.4343811%"></stop>
+            <stop stop-color="#BB96FF" offset="49.305304%"></stop>
+            <stop stop-color="#FFCEFC" offset="91.6919236%"></stop>
+            <stop stop-color="#EFCEFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-68.5%" y="-140.0%" width="237.0%" height="380.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="21" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iLab_Main_Page" transform="translate(-720.000000, -325.000000)">
+            <g id="编组-12" transform="translate(525.000000, 306.000000)">
+                <g id="logo" transform="translate(195.000000, 19.000000)">
+                    <text id="蒙版" fill="url(#linearGradient-1)" font-family="Times-Bold, Times" font-size="120" font-weight="bold">
+                        <tspan x="0" y="90">iLab</tspan>
+                    </text>
+                    <ellipse id="椭圆形" fill="#FF36A2" opacity="0.884305" filter="url(#filter-2)" cx="116" cy="98.5" rx="46" ry="22.5"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
